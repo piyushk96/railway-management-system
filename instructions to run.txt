@@ -1,0 +1,1 @@
+copy vga256.bgi driver from cd to your tc before running the program.
